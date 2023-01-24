@@ -1,5 +1,5 @@
 # maveric
-Collaborative Project Vipin and Avinash
+Project under development by Avinash Anand
 
 All rights reserved to authors @Avinash
 
