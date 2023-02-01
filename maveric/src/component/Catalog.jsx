@@ -22,7 +22,6 @@ export default function Catalog(props){
     },[]);
     return(
         <>
-         <h1>Vege Express ... </h1>
         <div className="float-container">
             {items.map((item, index) => (
                 <Card sx={{ minWidth: 275, maxWidth:300 }} className="float-child">
