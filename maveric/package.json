@@ -41,6 +41,7 @@
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.5",
-    "material-icons": "^1.13.1"
+    "material-icons": "^1.13.1",
+    "react-router-dom": "^6.8.0"
   }
 }
