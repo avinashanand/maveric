@@ -1,0 +1,7 @@
+.footer-position{
+    position:fixed;  
+    top: calc( 100vh - 100px );
+    background: #C0C0C0;
+    padding: 20px 0;
+    width: 100%;
+}
